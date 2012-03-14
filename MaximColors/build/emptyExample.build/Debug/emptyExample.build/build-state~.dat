@@ -1,0 +1,498 @@
+TemptyExample
+v4
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/emptyExampleDebug.app/Contents/Info.plist openFrameworks-Info.plist
+cProcessPCH++ /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-emlulczfmymurodlwbvbhnfghkue/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/fft.o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiFFT.o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiGrains.o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiGrains.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/../../../libs/glut/lib/osx/GLUT.framework
+c00000000000000000000000000000000
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/../../../libs/glut/lib/osx/GLUT.framework/GLUT
+c00000000000000000000000000000000
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/emptyExampleDebug.app
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/emptyExampleDebug.app/Contents/Frameworks/GLUT.framework
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/emptyExampleDebug.app/Contents/Info.plist
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/emptyExampleDebug.app/Contents/PkgInfo
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/openFrameworksDebug.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/emptyExampleDebug.LinkFileList
+c000000004F5D8801000000000000043D
+t1331529729
+s1085
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/fft.o
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiFFT.o
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiGrains.o
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiMFCC.o
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maximilian.o
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o
+t2
+s0
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c000000004F5D88010000000000000114
+t1331529729
+s276
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp
+c000000004F4FC68400000000000036DF
+t1330628228
+s14047
+i"fft.h"
+i<stdlib.h>
+i<stdio.h>
+i<math.h>
+i<string.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h
+c000000004F4FC68400000000000009F7
+t1330628228
+s2551
+i<Accelerate/Accelerate.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.cpp
+c000000004F4FC68400000000000029E8
+t1330628228
+s10728
+i"maxiFFT.h"
+i"maximilian.h"
+i<iostream>
+i"math.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.h
+c000000004F4FC684000000000000103B
+t1330628228
+s4155
+i"fft.h"
+i"stddef.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiGrains.cpp
+c000000004F4FC684000000000000001D
+t1330628228
+s29
+i"maxiGrains.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiGrains.h
+c000000004F4FC6840000000000003087
+t1330628228
+s12423
+i"maximilian.h"
+i"accelerate/accelerate.h"
+i<list>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiMFCC.cpp
+c000000004F4FC6840000000000000742
+t1330628228
+s1858
+i"maxiMFCC.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiMFCC.h
+c000000004F4FC6840000000000001380
+t1330628228
+s4992
+i"maxiFFT.h"
+i<math.h>
+i<iostream>
+i<Accelerate/Accelerate.h>
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maximilian.cpp
+c000000004F4FC684000000000000771A
+t1330628228
+s30490
+i"maximilian.h"
+i"math.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maximilian.h
+c000000004F4FC68400000000000022F9
+t1330628228
+s8953
+i<iostream>
+i<fstream>
+i<string>
+i<cstdlib>
+i"math.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/src/ofxMaxim.h
+c000000004F4FC68400000000000007A2
+t1330628228
+s1954
+i"maximilian.h"
+i"maxiFFT.h"
+i"maxiGrains.h"
+i"maxiMFCC.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp
+c000000004F4FC684000000000000019E
+t1330628228
+s414
+i"ofMain.h"
+i"testApp.h"
+i"ofAppGlutWindow.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp
+c000000004F4FC6840000000000000FDB
+t1330628228
+s4059
+i"testApp.h"
+
+N/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h
+c000000004F4FC68400000000000003AF
+t1330628228
+s943
+i"ofMain.h"
+i"ofxMaxim.h"
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
+c000000004E2F28B70000000000003197
+t1311713463
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c000000004E16C158000000000001BA20
+t1310114136
+s113184
+
+N/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.h
+c000000004E2622D6000000000000022B
+t1311122134
+s555
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004F4934C500000000021EB910
+t1330197701
+s35567888
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004E16C113000000000000B750
+t1310114067
+s46928
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004F4934D1000000000039E5E0
+t1330197713
+s3794400
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004E16C1130000000000006530
+t1310114067
+s25904
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004E7A9B9600000000000005FE
+t1316658070
+s1534
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004E16C1130000000000006560
+t1310114067
+s25952
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004F4934D000000000001195D0
+t1330197712
+s1152464
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004F4934CD000000000060F9D0
+t1330197709
+s6355408
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004F4934D2000000000000B870
+t1330197714
+s47216
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004F4934DE000000000011FDE0
+t1330197726
+s1179104
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004F4934EA000000000002E2E0
+t1330197738
+s189152
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004F4934F4000000000032B6C0
+t1330197748
+s3323584
+
+N/usr/include/math.h
+c000000004DDD287300000000000004F1
+t1306339443
+s1265
+
+N/usr/include/stdio.h
+c000000004E360D4E0000000000004763
+t1312165198
+s18275
+
+N/usr/include/stdlib.h
+c000000004E360D4E00000000000030A7
+t1312165198
+s12455
+
+N/usr/include/string.h
+c000000004E360D4E0000000000001A3A
+t1312165198
+s6714
+
+N/usr/include/sys/_types.h
+c000000004E41FFF40000000000001845
+t1312948212
+s6213
+
+N/var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-emlulczfmymurodlwbvbhnfghkue/Carbon.h.gch
+t2
+s0
+
+NopenFrameworks-Info.plist
+c000000004F4FC6840000000000000277
+t1330628228
+s631
+
+CBuild AST from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp
+r0
+
+CBuild AST from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.cpp
+r0
+
+CBuild AST from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiGrains.cpp
+r0
+
+CBuild AST from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiMFCC.cpp
+r0
+
+CBuild AST from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maximilian.cpp
+r0
+
+CBuild AST from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp
+r0
+
+CBuild AST from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies78ef7c81bf0db541^b3b68981bf0db541^-127"[WARN]Project.xcconfig line 5: Unable to find included file "../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig"2(21%IDEActivityLogMessage2@77"Missing dependency target "openFrameworks (from openFrameworksLib.xcodeproj)"-353222529#18446744073709551615#0#-1#-----2@120"Project.xcconfig line 5: Unable to find included file "../../../libs/openFrameworksCompiled/project/osx/CoreOF.xcconfig"-353222529#18446744073709551615#0#-1#-----0#1#0#--18"Check dependencies36"E43A38C2-A036-4C8D-950C-1D376898CE14-
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/fft.o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s353222531.398226
+e353222532.200147
+r1
+xCompileC
+xbuild/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/fft.o
+x/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp:40:
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h:42:3: warning: #warning Please link against the Accelerate framework
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp: In function 'char* WindowFuncName(int)':
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp:374: warning: deprecated conversion from string constant to 'char*'
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp:376: warning: deprecated conversion from string constant to 'char*'
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp:378: warning: deprecated conversion from string constant to 'char*'
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp:380: warning: deprecated conversion from string constant to 'char*'
+oi686-apple-darwin11-llvm-gcc-4.2: -lpthread: linker input file unused because linking not done
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cppe8126683bf0db541^d4483384bf0db541^-1086"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp:40:/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h:42:3: warning: #warning Please link against the Accelerate framework/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp: In function 'char* WindowFuncName(int)':/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp:374: warning: deprecated conversion from string constant to 'char*'/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp:376: warning: deprecated conversion from string constant to 'char*'/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp:378: warning: deprecated conversion from string constant to 'char*'/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp:380: warning: deprecated conversion from string constant to 'char*'5(21%IDEActivityLogMessage2@53"#warning Please link against the Accelerate framework-353222531#123#164#2(36%IDEActivityLogHeaderInclusionMessage3@118"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp-353222531#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@112"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp0000000000000000^39#18446744073709551615#39#18446744073709551615#18446744073709551615#0#---2@151"#warning Please link against the Accelerate framework in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h-353222531#18446744073709551615#0#-0#-4@110"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#---1#-4@110"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#10"#warning *--2@53"Deprecated conversion from string constant to 'char*'-353222531#426#165#-1#-4@112"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp0000000000000000^373#18446744073709551615#373#18446744073709551615#18446744073709551615#0#49"Deprecated conversion from string constant to '*'--2@53"Deprecated conversion from string constant to 'char*'-353222531#591#165#-1#-4@112"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp0000000000000000^375#18446744073709551615#375#18446744073709551615#18446744073709551615#0#49"Deprecated conversion from string constant to '*'--2@53"Deprecated conversion from string constant to 'char*'-353222531#756#165#-1#-4@112"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp0000000000000000^377#18446744073709551615#377#18446744073709551615#18446744073709551615#0#49"Deprecated conversion from string constant to '*'--2@53"Deprecated conversion from string constant to 'char*'-353222531#921#165#-1#-4@112"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp0000000000000000^379#18446744073709551615#379#18446744073709551615#18446744073709551615#0#49"Deprecated conversion from string constant to '*'--0#0#0#-19%DVTDocumentLocation5@112"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp0000000000000000^1613"CompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/fft.o ofxMaxim/libs/fft.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/include -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386 -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/DerivedSources -F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin -F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-emlulczfmymurodlwbvbhnfghkue/Carbon.h -c /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.cpp -o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/fft.o36"5FB610E3-0A80-40FE-BE53-9D4DF8D2B702-
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s353222531.398218
+e353222532.621091
+r0
+xCompileC
+xbuild/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o
+x/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:1:20: error: ofMain.h: No such file or directory
+oIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.h:39,
+o                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/src/ofxMaxim.h:37,
+o                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:4,
+o                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:2:
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h:42:3: warning: #warning Please link against the Accelerate framework
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:3:29: error: ofAppGlutWindow.h: No such file or directory
+oIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:2:
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:7: error: expected class-name before '{' token
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:22: error: 'ofDragInfo' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:23: error: 'ofMessage' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp: In function 'int main()':
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:8: error: 'ofAppGlutWindow' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:8: error: expected `;' before 'window'
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:9: error: 'window' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:9: error: 'OF_WINDOW' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:9: error: 'ofSetupOpenGL' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:14: error: 'ofRunApp' was not declared in this scope
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp5b0c6683bf0db541^25ce9e84bf0db541^-2396"/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:1:20: error: ofMain.h: No such file or directoryIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.h:39,                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/src/ofxMaxim.h:37,                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:4,                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:2:/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h:42:3: warning: #warning Please link against the Accelerate framework/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:3:29: error: ofAppGlutWindow.h: No such file or directoryIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:2:/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:7: error: expected class-name before '{' token/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:22: error: 'ofDragInfo' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:23: error: 'ofMessage' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp: In function 'int main()':/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:8: error: 'ofAppGlutWindow' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:8: error: expected `;' before 'window'/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:9: error: 'window' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:9: error: 'OF_WINDOW' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:9: error: 'ofSetupOpenGL' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp:14: error: 'ofRunApp' was not declared in this scope12(21%IDEActivityLogMessage2@35"OfMain.h: No such file or directory-353222531#0#137#-2#-23%DVTTextDocumentLocation3@103"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@53"#warning Please link against the Accelerate framework-353222531#614#164#5(36%IDEActivityLogHeaderInclusionMessage4@109"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp-353222531#18446744073709551615#0#-0#-3@103"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---4@110"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h-353222531#18446744073709551615#0#-0#-3@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---4@120"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/src/ofxMaxim.h-353222531#18446744073709551615#0#-0#-3@114"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/src/ofxMaxim.h0000000000000000^36#18446744073709551615#36#18446744073709551615#18446744073709551615#0#---4@120"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.h-353222531#18446744073709551615#0#-0#-3@114"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.h0000000000000000^38#18446744073709551615#38#18446744073709551615#18446744073709551615#0#---2@151"#warning Please link against the Accelerate framework in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h-353222531#18446744073709551615#0#-0#-3@110"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#---1#-3@110"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#10"#warning *--2@44"OfAppGlutWindow.h: No such file or directory-353222531#778#146#-2#-3@103"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@36"Expected class-name before '{' token-353222532#1037#136#2(4@109"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp-353222532#18446744073709551615#0#-0#-3@103"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@128"Expected class-name before '{' token in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h-353222532#18446744073709551615#0#-0#-3@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---2#-3@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@34"'ofDragInfo' has not been declared-353222532#1173#135#2(4@109"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp-353222532#18446744073709551615#0#-0#-3@103"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@126"'ofDragInfo' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h-353222532#18446744073709551615#0#-0#-3@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---2#-3@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@33"'ofMessage' has not been declared-353222532#1308#134#2(4@109"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp-353222532#18446744073709551615#0#-0#-3@103"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@125"'ofMessage' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h-353222532#18446744073709551615#0#-0#-3@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^22#18446744073709551615#22#18446744073709551615#18446744073709551615#0#---2#-3@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^22#18446744073709551615#22#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@48"'ofAppGlutWindow' was not declared in this scope-353222532#1557#147#-2#-3@103"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp0000000000000000^7#18446744073709551615#7#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@28"Expected `;' before 'window'-353222532#1704#127#-2#-3@103"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp0000000000000000^7#18446744073709551615#7#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@39"'window' was not declared in this scope-353222532#1831#138#-2#-3@103"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@42"'OF_WINDOW' was not declared in this scope-353222532#1969#141#-2#-3@103"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@46"'ofSetupOpenGL' was not declared in this scope-353222532#2110#145#-2#-3@103"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp0000000000000000^8#18446744073709551615#8#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@41"'ofRunApp' was not declared in this scope-353222532#2255#141#-2#-3@103"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--0#0#0#-19%DVTDocumentLocation5@103"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp0000000000000000^1597"CompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/include -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386 -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/DerivedSources -F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin -F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-emlulczfmymurodlwbvbhnfghkue/Carbon.h -c /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/main.cpp -o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o36"CB7E5333-8787-44FA-9AB0-FF38C0BD4222-
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiFFT.o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s353222531.398396
+e353222532.722650
+r1
+xCompileC
+xbuild/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiFFT.o
+x/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.h:39,
+o                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.cpp:33:
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h:42:3: warning: #warning Please link against the Accelerate framework
+oi686-apple-darwin11-llvm-gcc-4.2: -lpthread: linker input file unused because linking not done
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.cppa5166683bf0db541^b073bf84bf0db541^-416"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.h:39,                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.cpp:33:/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h:42:3: warning: #warning Please link against the Accelerate framework1(21%IDEActivityLogMessage2@53"#warning Please link against the Accelerate framework-353222531#252#164#3(36%IDEActivityLogHeaderInclusionMessage3@122"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.cpp-353222531#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@116"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.cpp0000000000000000^32#18446744073709551615#32#18446744073709551615#18446744073709551615#0#---3@120"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.h-353222531#18446744073709551615#0#-0#-4@114"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.h0000000000000000^38#18446744073709551615#38#18446744073709551615#18446744073709551615#0#---2@151"#warning Please link against the Accelerate framework in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h-353222531#18446744073709551615#0#-0#-4@110"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#---1#-4@110"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#10"#warning *--0#0#0#-19%DVTDocumentLocation5@116"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.cpp0000000000000000^1629"CompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiFFT.o ofxMaxim/libs/maxiFFT.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/include -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386 -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/DerivedSources -F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin -F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-emlulczfmymurodlwbvbhnfghkue/Carbon.h -c /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.cpp -o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiFFT.o36"866FC072-3E32-434C-BCFF-ECD6E617229C-
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiGrains.o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiGrains.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s353222532.239308
+e353222533.026184
+r1
+xCompileC
+xbuild/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiGrains.o
+x/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiGrains.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oi686-apple-darwin11-llvm-gcc-4.2: -lpthread: linker input file unused because linking not done
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiGrains.cppdc673d84bf0db541^ddb30685bf0db541^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiGrains.cpp0000000000000000^1641"CompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiGrains.o ofxMaxim/libs/maxiGrains.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/include -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386 -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/DerivedSources -F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin -F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-emlulczfmymurodlwbvbhnfghkue/Carbon.h -c /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiGrains.cpp -o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiGrains.o36"0DFA080B-0DE5-441F-B8A6-87E3A421F277-
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maxiMFCC.o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiMFCC.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/maximilian.o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maximilian.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s353222531.398209
+e353222532.722396
+r0
+xCompileC
+xbuild/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o
+x/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:10:
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:3:20: error: ofMain.h: No such file or directory
+oIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.h:39,
+o                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/src/ofxMaxim.h:37,
+o                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:4,
+o                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:10:
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h:42:3: warning: #warning Please link against the Accelerate framework
+oIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:10:
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:7: error: expected class-name before '{' token
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:22: error: 'ofDragInfo' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:23: error: 'ofMessage' has not been declared
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp: In member function 'void testApp::setup()':
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:27: error: 'ofEnableAlphaBlending' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:28: error: 'ofSetupScreen' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:29: error: 'ofBackground' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:30: error: 'ofSetVerticalSync' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:41: error: 'ofToDataPath' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:45: error: 'ofSoundStreamSetup' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp: In member function 'void testApp::draw()':
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:62: error: 'ofSetColor' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:63: error: 'ofRect' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:64: error: 'ofCircle' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp: In member function 'void testApp::audioRequested(float*, int, int)':
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:86: error: 'mouseX' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp: At global scope:
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:153: error: variable or field 'gotMessage' declared void
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:153: error: 'ofMessage' was not declared in this scope
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:158: error: variable or field 'dragEvent' declared void
+o/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:158: error: 'ofDragInfo' was not declared in this scope
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp280c6683bf0db541^9353bf84bf0db541^-4034"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:10:/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:3:20: error: ofMain.h: No such file or directoryIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.h:39,                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/src/ofxMaxim.h:37,                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:4,                 from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:10:/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h:42:3: warning: #warning Please link against the Accelerate frameworkIn file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:10:/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:7: error: expected class-name before '{' token/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:22: error: 'ofDragInfo' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h:23: error: 'ofMessage' has not been declared/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp: In member function 'void testApp::setup()':/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:27: error: 'ofEnableAlphaBlending' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:28: error: 'ofSetupScreen' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:29: error: 'ofBackground' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:30: error: 'ofSetVerticalSync' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:41: error: 'ofToDataPath' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:45: error: 'ofSoundStreamSetup' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp: In member function 'void testApp::draw()':/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:62: error: 'ofSetColor' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:63: error: 'ofRect' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:64: error: 'ofCircle' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp: In member function 'void testApp::audioRequested(float*, int, int)':/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:86: error: 'mouseX' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp: At global scope:/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:153: error: variable or field 'gotMessage' declared void/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:153: error: 'ofMessage' was not declared in this scope/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:158: error: variable or field 'dragEvent' declared void/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp:158: error: 'ofDragInfo' was not declared in this scope20(21%IDEActivityLogMessage2@35"OfMain.h: No such file or directory-353222531#117#138#2(36%IDEActivityLogHeaderInclusionMessage3@112"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp-353222531#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---2@127"OfMain.h: No such file or directory in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h-353222531#18446744073709551615#0#-0#-4@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#---2#-4@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^2#18446744073709551615#2#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@53"#warning Please link against the Accelerate framework-353222531#736#164#5(3@112"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp-353222531#18446744073709551615#0#-0#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---3@110"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h-353222531#18446744073709551615#0#-0#-4@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---3@120"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/src/ofxMaxim.h-353222531#18446744073709551615#0#-0#-4@114"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/src/ofxMaxim.h0000000000000000^36#18446744073709551615#36#18446744073709551615#18446744073709551615#0#---3@120"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.h-353222531#18446744073709551615#0#-0#-4@114"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/maxiFFT.h0000000000000000^38#18446744073709551615#38#18446744073709551615#18446744073709551615#0#---2@151"#warning Please link against the Accelerate framework in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h-353222531#18446744073709551615#0#-0#-4@110"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#---1#-4@110"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/ofxMaxim/libs/fft.h0000000000000000^41#18446744073709551615#41#18446744073709551615#18446744073709551615#0#10"#warning *--2@36"Expected class-name before '{' token-353222532#1017#136#2(3@112"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp-353222532#18446744073709551615#0#-0#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---2@128"Expected class-name before '{' token in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h-353222532#18446744073709551615#0#-0#-4@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#---2#-4@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^6#18446744073709551615#6#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@34"'ofDragInfo' has not been declared-353222532#1153#135#2(3@112"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp-353222532#18446744073709551615#0#-0#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---2@126"'ofDragInfo' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h-353222532#18446744073709551615#0#-0#-4@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#---2#-4@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^21#18446744073709551615#21#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@33"'ofMessage' has not been declared-353222532#1288#134#2(3@112"In file included from /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp-353222532#18446744073709551615#0#-0#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^9#18446744073709551615#9#18446744073709551615#18446744073709551615#0#---2@125"'ofMessage' has not been declared in /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h-353222532#18446744073709551615#0#-0#-4@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^22#18446744073709551615#22#18446744073709551615#18446744073709551615#0#---2#-4@104"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.h0000000000000000^22#18446744073709551615#22#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@54"'ofEnableAlphaBlending' was not declared in this scope-353222532#1558#157#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^26#18446744073709551615#26#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@46"'ofSetupScreen' was not declared in this scope-353222532#1715#149#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^27#18446744073709551615#27#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@45"'ofBackground' was not declared in this scope-353222532#1864#148#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^28#18446744073709551615#28#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@50"'ofSetVerticalSync' was not declared in this scope-353222532#2012#153#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^29#18446744073709551615#29#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@45"'ofToDataPath' was not declared in this scope-353222532#2165#148#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^40#18446744073709551615#40#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@51"'ofSoundStreamSetup' was not declared in this scope-353222532#2313#154#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^44#18446744073709551615#44#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@43"'ofSetColor' was not declared in this scope-353222532#2602#146#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^61#18446744073709551615#61#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@39"'ofRect' was not declared in this scope-353222532#2748#142#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^62#18446744073709551615#62#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@41"'ofCircle' was not declared in this scope-353222532#2890#144#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^63#18446744073709551615#63#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@39"'mouseX' was not declared in this scope-353222532#3195#142#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^85#18446744073709551615#85#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--32%IDEActivityLogContextInfoMessage5@16"At global scope:-353222532#3337#109#-0#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#19"LLVM GCC 4.2 Notice--2@44"Variable or field 'gotMessage' declared void-353222532#3446#148#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^152#18446744073709551615#152#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@42"'ofMessage' was not declared in this scope-353222532#3594#146#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^152#18446744073709551615#152#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@43"Variable or field 'dragEvent' declared void-353222532#3740#147#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^157#18446744073709551615#157#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@43"'ofDragInfo' was not declared in this scope-353222532#3887#147#-2#-4@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^157#18446744073709551615#157#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--0#0#0#-19%DVTDocumentLocation6@106"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp0000000000000000^1609"CompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o src/testApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/include -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386 -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/DerivedSources -F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin -F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-emlulczfmymurodlwbvbhnfghkue/Carbon.h -c /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/src/testApp.cpp -o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o36"F1BA9780-B24F-4F8D-85D7-641F0936B3D8-
+
+CLd /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug normal i386
+r0
+
+CPBXCp ../../../libs/glut/lib/osx/GLUT.framework bin/emptyExampleDebug.app/Contents/Frameworks/GLUT.framework
+r0
+
+CPhaseScriptExecution "Run Script" /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+r0
+
+CProcessInfoPlistFile /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/emptyExampleDebug.app/Contents/Info.plist openFrameworks-Info.plist
+s353222529.542864
+e353222529.546223
+r1
+xProcessInfoPlistFile
+x/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/emptyExampleDebug.app/Contents/Info.plist
+xopenFrameworks-Info.plist
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Process openFrameworks-Info.plist81068b81bf0db541^dbf88b81bf0db541^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/openFrameworks-Info.plist0000000000000000^522"ProcessInfoPlistFile bin/emptyExampleDebug.app/Contents/Info.plist openFrameworks-Info.plist    cd /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX    builtin-infoPlistUtility openFrameworks-Info.plist -genpkginfo /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/emptyExampleDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/emptyExampleDebug.app/Contents/Info.plist36"E9059309-F046-4867-9E91-2122D09F6566-
+
+CProcessPCH++ /Users/lia/Library/Developer/Xcode/DerivedData/emptyExample-fojdlcasbvsgingfzoicebquxedd/Index/PrecompiledHeaders/Carbon-aqzdbucffydnrfcusgkopshtftwk_ast/Carbon.h.pth /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-emlulczfmymurodlwbvbhnfghkue/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42
+s353222529.555194
+e353222531.390508
+r1
+xProcessPCH++
+x/var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-emlulczfmymurodlwbvbhnfghkue/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oi686-apple-darwin11-llvm-gcc-4.2: -lpthread: linker input file unused because linking not done
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h643c8e81bf0db541^c2fa6383bf0db541^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^1538"ProcessPCH++ /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-emlulczfmymurodlwbvbhnfghkue/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42    cd /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -Os -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/include -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386 -I/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/build/emptyExample.build/Debug/emptyExample.build/DerivedSources -F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin -F/Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/np/bmm2m30923gfdvhs15zd484r0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-emlulczfmymurodlwbvbhnfghkue/Carbon.h.gch36"56C3A80D-A384-45CA-B21B-C0C65D8F5678-
+
+CTouch /Code/oF/OpenFrameworks/of_preRelease_v007_osx/addons/ofMaximExample007OSX/bin/emptyExampleDebug.app
+r0
+
