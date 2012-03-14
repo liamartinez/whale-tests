@@ -38,13 +38,23 @@ class testApp : public ofBaseApp{
     //vectors
     vector<ofxBox2dCircle>  topCircles;
     vector<ofxBox2dCircle>  bottomCircles;
+    vector<ofxBox2dCircle>  leftCircles;
+    vector<ofxBox2dCircle>  rightCircles;
     
     vector<ofxBox2dJoint>   topJoints;
     vector<ofxBox2dJoint>   bottomJoints;
     vector<ofxBox2dJoint>   heightJoints;
+    vector<ofxBox2dJoint>   leftJoints;
+    vector<ofxBox2dJoint>   rightJoints;
+    
+    vector<ofxBox2dCircle>  waters; 
     
     //ofxUI
     ofxUICanvas *gui;   	
 	void guiEvent(ofxUIEventArgs &e);
+    
+    //controls
+    bool                    skeleton;
+    int                     numNote; 
     
 };
