@@ -207,7 +207,8 @@ void testApp::draw(){
     }
     
     if (skeleton) {
-        ofNoFill();
+        ofFill();
+        ofSetColor(79, 178, 245);
         ofBeginShape();
         
         for (int i = 0; i < topCircles.size(); i++) {
@@ -229,15 +230,16 @@ void testApp::draw(){
             ofCurveVertex(pos.x, pos.y);
             }
         }
-        ofEndShape(false); 
-        
-        ofBeginShape();
-        for (int i = 0; i < bottomCircles.size(); i++) {
+                
+        for (int i = bottomCircles.size()-1; i >= 0; i--) {
             ofVec2f pos; 
             pos = bottomCircles[i].getPosition();
-            ofVertex(pos.x, pos.y);
+            ofCurveVertex(pos.x, pos.y);
         }
-        ofEndShape(false); 
+        
+        ofEndShape(true); 
+        
+
     }
 
     for(int i=0; i<waters.size(); i++) {
