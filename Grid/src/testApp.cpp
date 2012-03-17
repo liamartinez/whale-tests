@@ -10,8 +10,8 @@ void testApp::setup(){
         
     //initial settings
     incHorz     = .2;    //spaces between joints
-    numHorz     = 100;  //number of circles
-    lenHorz     = 820;  //total length
+    numHorz     = 20;  //number of circles
+    lenHorz     = 320;  //total length
     
     incVertz    = .2;   //spaces between joints
     numVertz    = 3;   //number of circles
@@ -187,7 +187,7 @@ void testApp::draw(){
             topJoints[i].draw(); 
             bottomJoints[i].draw(); 
             //drawing these joints will cause errors. Don't know why 
-            //heightJoints[i].draw(); 
+            heightJoints[i].draw(); 
         }
         
         for(int i=0; i<leftCircles.size(); i++) {
